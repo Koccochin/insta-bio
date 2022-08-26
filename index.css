@@ -1,0 +1,29 @@
+img {
+    width: 200px;
+    border-radius: 50%;
+    float: left;
+    margin: 50px;
+}
+.IG-Handle {
+    position:absolute;
+    left: 400px;
+    font-weight: 100;
+
+}
+button {
+    position:absolute;
+    left: 540px;
+    top: 40px;
+    background-color: white;
+    border:1px solid lightgrey;
+    border-radius: 2px;
+    padding: 3px 7px;
+}
+.stats {
+    list-style-type: none;
+    position:absolute;
+    left: 400px;
+    top: 80px;
+    padding: 0;
+
+}
